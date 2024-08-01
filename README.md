@@ -1,3 +1,3 @@
-# TIL
+# memo
 
-기록용 repo
+메모용 repo
